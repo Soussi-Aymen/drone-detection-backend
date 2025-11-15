@@ -40,7 +40,7 @@ To get the simulation engine and data streaming running:
 
 Clone the Repository:
 
-git clone [REPO_URL]
+git clone https://github.com/Soussi-Aymen/drone-detection-backend.git
 
 
 Install Dependencies:
