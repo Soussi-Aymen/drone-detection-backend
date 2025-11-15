@@ -4,7 +4,7 @@
   "description": "Nest.js server for real-time C-UAS threat data simulation and distribution.",
   "author": "Aymen Soussi",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
