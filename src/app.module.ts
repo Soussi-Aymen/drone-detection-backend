@@ -1,7 +1,7 @@
-import { Module } from '@nestjs/common';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
-import { RealtimeModule } from './realtime/realtime.module';
+import { Module } from "@nestjs/common";
+import { AppController } from "./app.controller";
+import { AppService } from "./app.service";
+import { RealtimeModule } from "./realtime/realtime.module";
 
 @Module({
   imports: [RealtimeModule],

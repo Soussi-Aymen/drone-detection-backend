@@ -1,6 +1,6 @@
-import { Module } from '@nestjs/common';
-import { SimulationService } from './simulation.service';
-import { RealtimeGateway } from './realtime.gateway';
+import { Module } from "@nestjs/common";
+import { SimulationService } from "./simulation.service";
+import { RealtimeGateway } from "./realtime.gateway";
 
 @Module({
   imports: [],
